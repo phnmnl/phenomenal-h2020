@@ -4,4 +4,4 @@ PhenoMeNal (Phenome and Metabolome aNalysis) is a comprehensive and standardised
 
 You can find more about our project, the consortium, its members and stay up to date with news about it [here](http://phenomenal-h2020.eu/home/).
 
-Technical documentation on the project can be found in our wiki.
+Technical documentation on the project can be found in our [wiki](https://github.com/phnmnl/phenomenal-h2020/wiki).
